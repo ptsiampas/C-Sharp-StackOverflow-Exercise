@@ -20,4 +20,4 @@ procedural programming. Such programs are very fragile. Making a change breaks m
 of the code.
 
 ---
-**Note**: This is from [Course Name & Name of Instructor](http://)
+**Note**: This is from [C# Intermediate: Classes, Interfaces and OOP By Mosh Hamedani](https://www.udemy.com/csharp-intermediate-classes-interfaces-and-oop/learn/v4/overview)
